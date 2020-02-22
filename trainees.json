@@ -1,0 +1,19 @@
+{
+   "Trainee1" : {
+      "name" : "mahesh",
+      "password" : "password1",
+      "id": 1
+   },
+   
+   "Trainee2" : {
+      "name" : "suresh",
+      "password" : "password2",
+      "id": 2
+   },
+   
+   "Trainee3" : {
+      "name" : "ramesh",
+      "password" : "password3",
+      "id": 3
+   }
+}
